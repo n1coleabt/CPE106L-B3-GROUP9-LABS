@@ -1,0 +1,26 @@
+Readings, Insights, and Reflection
+
+Professional Git 
+9781119285007
+TORRES, NICOLE ALLYSON B. 
+With the introduction to GitHub, we were able to learn new things. First, in modern software development, Git is an essential distributed version control system that plays a vital role. It allows developers to track 
+code changes, collaborate effectively, and revert to prior versions, all of which streamline the development process. This chapter delves into the Git ecosystem, explicitly focusing on hosting platforms like GitHub, 
+Bitbucket, and GitLab. These platforms are crucial as they enable developers to store and share code, promoting collaboration, issue management, and continuous integration. By utilizing these hosting platforms, developers 
+can efficiently manage their code and streamline the development process. Also, the chapter provides readers with a solid understanding of the key terminology and best practices associated with Git and some typical workflows. Overall, this chapter serves as a helpful starting point for anyone who is new to Git or wants to brush up on their knowledge of version control systems. It allows collaborative work on code and ensures that each collaborator can safely edit and manage the code or its entire infrastructure as long as Git is used to make versions.  
+ 
+ Fundamentals of Python: First Programs 
+TORRES, NICOLE ALLYSON B. 
+The book introduces me Python as an ideal language for beginners due to its simplicity and readability. It takes a hands-on approach, starting with the basics and advancing to complex topics. The author emphasizes 
+problem-solving skills through programming challenges and exercises. Interactive elements such as exercises and projects keep readers engaged and motivated. The book demonstrates practical applications of Python and covers 
+coding best practices. It encourages readers to engage with the Python community and practice coding. Interactive elements like exercises and projects keep readers engaged. Lambert simply encourages us readers to engage 
+with the Python community and stresses the importance of practice in achieving mastery. 
+
+
+Fundamentals of Python: Data Structures, 2nd Edition 
+9780357122754 
+ TORRES, NICOLE ALLYSON B. 
+The first chapter of "Fundamentals of Python: Data Structures, 2nd Edition" is a must-read for anyone learning Python. It provides a comprehensive understanding of the language and its syntax. The chapter teaches Python 
+basics and how it differs from other programming languages. Python code is easy to read without punctuation and symbols, making it a language anyone can quickly learn. The chapter is an excellent introduction to Python, 
+covering program elements, control statements (if-else), loops (while and for), strings, lists, tuples, functions, exception handling with try-except, classes, and more. The chapter also highlights the unique features of 
+strings in Python, and using quotation marks and parts for lines and the indexing of strings make it simple to understand the language. Additionally, the chapter provides an in-depth understanding of exception handling in 
+Python and how we can import files or modules from one module to another.  
